@@ -18,6 +18,7 @@
   "homepage": "https://github.com/leahciMic/firebase-chat-example#readme",
   "dependencies": {
     "backbone": "^1.2.3",
+    "browserify": "^11.2.0",
     "firebase": "^2.3.1"
   }
 }
