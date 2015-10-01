@@ -1,0 +1,23 @@
+{
+  "name": "firebase-chat-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leahciMic/firebase-chat-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leahciMic/firebase-chat-example/issues"
+  },
+  "homepage": "https://github.com/leahciMic/firebase-chat-example#readme",
+  "dependencies": {
+    "backbone": "^1.2.3",
+    "firebase": "^2.3.1"
+  }
+}
